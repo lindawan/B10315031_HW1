@@ -1,5 +1,5 @@
 # B10315031 HW1
-**OS:** Ubuntu 14.04.5 LTS
+**OS:** Ubuntu 14.04.5 LTS  
 **program language:** python2
 
 **EncryptAndDecrypt.py:** 加解密的函數
